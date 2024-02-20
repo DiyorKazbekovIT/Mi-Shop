@@ -94,4 +94,4 @@ npm run build
 
 ## Автор
 
-`Khaetbek Akhmadzhonov` ссылка на [портфолио](http://whpchust.ru/ "Khaetbek - Portfolio")
+`Khaetbek Akhmadzhonov` ссылка на [портфолио](http://whpchust.ru/ "Khaetbek - Portfolio")# Mi-Shop
